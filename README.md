@@ -64,6 +64,8 @@ All screenshots use the built-in **demo data** (a made-up "Demo Restaurant"), no
 **Stock and profit**
 - Stock levels for ready items (drinks, bread) and **ingredients with recipes** for cooked dishes
 - Real food cost and profit per dish, with low-stock alerts
+- **Menu engineering:** every dish is rated Star, Plowhorse, Puzzle or Dog, so you know what to keep, promote or rework
+- **Rush hours:** a colour grid of your busiest hours and days, and a dashboard alert when an ingredient price rise cuts a dish's margin
 - Cash drawer: open and close the day, count the cash, see any difference
 - Expenses and profit reports, exported to CSV
 

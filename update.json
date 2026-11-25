@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "releaseDate": "2026-11-25",
-  "notes": "New: a Check for updates button (Settings, Licence & about) that tells you when a newer version is available.",
+  "notes": "New: Menu engineering and Rush hours reports, and a dashboard alert when an ingredient price rise cuts a dish's margin.",
   "url": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/latest",
-  "sig": "N4wO0QH_OTdBRH88C_uJxjekxhCsofCGgAd4mZpfk5pFWBBeCF0YiVKXXz8BTETTjZ5uS9NjXgZXEPTo_YzLDA"
+  "sig": "uIjiFLuzrs2noDZnEy6rHTgaJFrmZw_N1O9gLvk7QMAPr5QZ8IamaQqc31Yek92s-0VgOPqq97O9dh55MXQMCw"
 }
