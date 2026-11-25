@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "releaseDate": "2026-11-25",
-  "notes": "Add photos from a folder: match your food photos to products by name. Billing and Products show real food photos.",
+  "notes": "New: a Check for updates button (Settings, Licence & about) that tells you when a newer version is available.",
   "url": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/latest",
-  "sig": "QQz7KPDr3RtAXzGXSnYoSfM1tEcR-OoT0w-hn7EvBY5XuADhaqWYTXzk94CNO0OLp2UF6pDY1ojoaQWmVoYFDA"
+  "sig": "N4wO0QH_OTdBRH88C_uJxjekxhCsofCGgAd4mZpfk5pFWBBeCF0YiVKXXz8BTETTjZ5uS9NjXgZXEPTo_YzLDA"
 }
