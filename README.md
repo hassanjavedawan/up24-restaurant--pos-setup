@@ -100,7 +100,7 @@ All screenshots use the built-in **demo data** (a made-up "Demo Restaurant"), no
 - Your data lives on your computer in `%APPDATA%\restaurant-pos`. It is **not** deleted when you update or uninstall.
 - To update, download the newer installer from the [Releases](../../releases) page and run it over the old one. Your menu, orders and settings stay. The app also makes a safety copy of your database before it upgrades it.
 - Good habit: before updating, take a manual backup to a USB drive (**Settings → Backup**).
-- To see whether a newer version is out, open **Settings → Licence & about** and press **Check for updates** (version 1.0.2 and newer). It tells you what changed and opens the download page; nothing is installed automatically.
+- To update, open **Settings → Licence & about** and press **Check for updates**. If a newer version exists, press **Download and install** (version 1.1.1 and newer): the app downloads it, checks that it is genuine, makes a backup of your data, then closes and opens the installer. Older versions show a download page instead.
 
 ## Support
 

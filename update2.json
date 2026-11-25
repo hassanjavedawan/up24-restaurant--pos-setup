@@ -1,0 +1,10 @@
+{
+  "version": "1.1.1",
+  "releaseDate": "2026-11-25",
+  "notes": "New: Check for updates can now download and install the new version from inside the app (with a backup first).",
+  "url": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/latest",
+  "installerUrl": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/download/v1.1.1/Up24-Sale-System-Restaurant-Edition-Setup-1.1.1.exe",
+  "sha256": "3b2a57bf1de4287934fe6ddf0bbe2191ce3e408133a37e52b042437d282d419d",
+  "size": 85063792,
+  "sig": "h3yeap3Hll2zP_VuKOImnWJQrhTN_q4MEG3ZJzvaAySiNc90t6U-RiUcbG139sOX6QOeLeNJI7rb8Ka2tSfnAg"
+}
