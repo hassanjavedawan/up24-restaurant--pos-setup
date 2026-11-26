@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "releaseDate": "2026-11-26",
-  "notes": "New: khata, rider settlement, table bills, kitchen screens, print preview and waste reports. Switch features on or off in Settings > Features. Cancelling food that was already made now counts it as waste.",
+  "notes": "Updates now download in the background and are installed only when you press Install. You can switch this off in Settings > Licence & about.",
   "url": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/latest",
-  "installerUrl": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/download/v1.2.0/Up24-Sale-System-Restaurant-Edition-Setup-1.2.0.exe",
-  "sha256": "c8ea350ab225c596c383601dcf4ece9c899aa0afe370674dc4e91dd1160d1000",
-  "size": 85161265,
-  "sig": "alMxWVo6vfsiu7ttGZwQbmLegFIOOEOKucHvgZ5V_dcuK-tx9JTAnbfnZwVSgNYGiCR-jVoEIRNZG0IBPGC1DQ"
+  "installerUrl": "https://github.com/hassanjavedawan/up24-restaurant--pos-setup/releases/download/v1.2.1/Up24-Sale-System-Restaurant-Edition-Setup-1.2.1.exe",
+  "sha256": "bff64ab3e37a7b174996d00355fd8138be789b7b1495cdc5d2885f975a2c44a3",
+  "size": 85163196,
+  "sig": "Byqboco4V-qBxbS2ARW_jgYSqYMJrVMlg1VEwJfMCGXUEZPqt2fGoxbKweBiH_nSSzWvn9PFJn_Niqp7Rxr5Aw"
 }

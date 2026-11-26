@@ -107,7 +107,7 @@ All screenshots use the built-in **demo data** (a made-up "Demo Restaurant"), no
 
 **Requirements:** Windows 10 or 11 (64-bit). No internet needed.
 
-1. Download the **Setup .exe** (for example `Up24-Sale-System-Restaurant-Edition-Setup-1.2.0.exe`) from the [latest release](../../releases/latest).
+1. Download the **Setup .exe** (for example `Up24-Sale-System-Restaurant-Edition-Setup-1.2.1.exe`) from the [latest release](../../releases/latest).
 2. Run it and follow the steps (you can choose the install folder).
 3. Open **Up24 Sale System Restaurant Edition** from the desktop or Start menu.
 4. The first start asks you to create the owner account and walks you through the basic settings.
@@ -123,7 +123,8 @@ All screenshots use the built-in **demo data** (a made-up "Demo Restaurant"), no
 ## Your data and updates
 
 - Your data lives on your computer in `%APPDATA%\restaurant-pos`. It is **not** deleted when you update or uninstall.
-- To update, open **Settings → Licence & about** and press **Check for updates**, then **Download and install**: the app downloads the new version, checks that it is genuine, makes a backup of your data, then closes and opens the installer. (Version 1.1.1 and newer.)
+- When there is internet, the app downloads a newer version in the background (about 85 MB), checks that it is genuine and tells the owner. Press **Install now** when you are ready: it makes a backup of your data, then closes and opens the installer. (Version 1.2.1 and newer. You can switch the automatic download off in **Settings → Licence & about**.)
+- On 1.1.1 or 1.2.0, open **Settings → Licence & about** and press **Check for updates**, then **Download and install**.
 - On an older version, download the newer installer from the [Releases](../../releases) page once and run it over the old one.
 - Either way your menu, orders and settings stay, and the app makes a safety copy of your database before it upgrades it.
 - Good habit: before updating, take a manual backup to a USB drive (**Settings → Backup**).
